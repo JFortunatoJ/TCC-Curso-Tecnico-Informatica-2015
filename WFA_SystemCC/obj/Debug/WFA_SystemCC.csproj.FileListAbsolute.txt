@@ -1,0 +1,190 @@
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmProdutos.resources
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmEstoque.resources
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+C:\Users\Jackson Parra\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmFornecedor.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmMenu.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmControleEstoque.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmEstoque.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadProdutos.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmBackup.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmLogin.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmSobre.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadFornecedor.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadCategoria.resources
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCategoria.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+D:\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+D:\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadCategoria.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCategoria.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadFornecedor.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmBackup.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmFornecedor.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmLogin.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmMenu.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmControleEstoque.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadProdutos.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmEstoque.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmSobre.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
+C:\Users\joaob\Desktop\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadUsuario.resources
+D:\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadUsuario.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadCategoria.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadUsuario.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCategoria.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadFornecedor.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmBackup.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmFornecedor.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmLogin.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmMenu.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmControleEstoque.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadProdutos.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmSobre.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmTarefas.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendasRegistro.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendas.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadMovimentacao.resources
+C:\Users\Administrador\Documents\Visual Studio 2015\Projects\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmProdutos.resources
+E:\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+E:\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+E:\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadCategoria.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadMovimentacao.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadUsuario.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCategoria.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadFornecedor.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmBackup.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmFornecedor.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmLogin.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmMenu.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmControleEstoque.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadProdutos.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmProdutos.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmTarefas.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendasRegistro.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmSobre.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendas.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
+E:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmRelatorio.resources
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadCategoria.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadMovimentacao.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadUsuario.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCategoria.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadFornecedor.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmBackup.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmFornecedor.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmLogin.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmMenu.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmControleEstoque.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadProdutos.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmProdutos.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmTarefas.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendasRegistro.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmSobre.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendas.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\RdlCompile.cache
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\RdlCompile.compiled
+F:\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Relatorios.frmRelatorio.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadCategoria.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadMovimentacao.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadUsuario.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCategoria.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadFornecedor.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmBackup.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmFornecedor.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmLogin.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmMenu.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmControleEstoque.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadProdutos.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmProdutos.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmTarefas.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendasRegistro.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmSobre.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendas.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Relatorios.frmRelatorio.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\RdlCompile.cache
+D:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\RdlCompile.compiled
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe.config
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.exe
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.pdb
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.exe
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\bin\Debug\WFA_SystemCC.pdb
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csprojResolveAssemblyReference.cache
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadCategoria.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadMovimentacao.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCadUsuario.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Cadastros.frmCategoria.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadFornecedor.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmBackup.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmFornecedor.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmLogin.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmMenu.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmControleEstoque.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmCadProdutos.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmProdutos.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmTarefas.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendasRegistro.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.frmSobre.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.frmVendas.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Formulários.Relatorios.frmRelatorio.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.Properties.Resources.resources
+E:\Backup Pendrive\Curso Informática\TCC\WFA_SystemCC\WFA_SystemCC\obj\Debug\WFA_SystemCC.csproj.GenerateResource.Cache
